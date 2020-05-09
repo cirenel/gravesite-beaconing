@@ -15,10 +15,10 @@ with open(csvFilePath) as csvFile:
                 Feature(
                     geometry = Point((latitude, longitude)),
                     properties = {
-                        'fname' : row['fname'],
-                        'lname' : row['lname'],
-                        'section' : row['Section'],
-                        'plot' : row['Plot']
+                        'fname' : (row['fname']).strip(),
+                        'lname' : (row['lname']).strip(),
+                        'section' : (row['Section']).strip(),
+                        'plot' : (row['Plot']).strip()
                     }
                 )
             )

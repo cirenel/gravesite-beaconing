@@ -3,14 +3,14 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174157,
-          30.452318
+          -91.174145,
+          30.452324
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": "J. ",
-        "lname": " ?",
+        "fname": "J.",
+        "lname": "?",
         "plot": "49",
         "section": "1"
       },
@@ -19,13 +19,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17419,
-          30.4523
+          -91.174179,
+          30.452307
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Michael B.",
+        "fname": "Michael B.",
         "lname": "Acosta",
         "plot": "52",
         "section": "1"
@@ -35,13 +35,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174229,
-          30.452305
+          -91.174219,
+          30.452311
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Sidney Vincent",
+        "fname": "Sidney Vincent",
         "lname": "Acosta",
         "plot": "54",
         "section": "1"
@@ -51,13 +51,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174136,
+          -91.174129,
           30.452137
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Anna",
+        "fname": "Anna",
         "lname": "Allen",
         "plot": "25(a)",
         "section": "1"
@@ -67,13 +67,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174167,
-          30.45223
+          -91.174156,
+          30.452232
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Gracie Anna",
+        "fname": "Gracie Anna",
         "lname": "Allen",
         "plot": "44",
         "section": "1"
@@ -83,13 +83,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174222,
-          30.452061
+          -91.17421,
+          30.452066
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Jeanne V.",
+        "fname": "Jeanne V.",
         "lname": "Bacas",
         "plot": "17",
         "section": "1"
@@ -99,13 +99,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174156,
-          30.4524
+          -91.174145,
+          30.452412
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " C. V.",
+        "fname": "C. V.",
         "lname": "Baham",
         "plot": "62",
         "section": "1"
@@ -115,13 +115,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174155,
-          30.452596
+          -91.174143,
+          30.452634
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Mercedes",
+        "fname": "Mercedes",
         "lname": "Banks",
         "plot": "109",
         "section": "1"
@@ -131,13 +131,45 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174202,
-          30.452672
+          -91.174126,
+          30.452538
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Harriet A.",
+        "fname": "Mary Louise",
+        "lname": "Barcelona",
+        "plot": "76",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174124,
+          30.452539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Unknown woman",
+        "lname": "Barcelona",
+        "plot": "76(b)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174177,
+          30.452693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Harriet A.",
         "lname": "Basker",
         "plot": "126",
         "section": "1"
@@ -147,13 +179,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174177,
-          30.452749
+          -91.174159,
+          30.452773
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Amade J.",
+        "fname": "Amade J.",
         "lname": "Bell",
         "plot": "149",
         "section": "1"
@@ -163,13 +195,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452748
+          -91.174142,
+          30.452772
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Horace",
+        "fname": "Horace",
         "lname": "Bell",
         "plot": "151",
         "section": "1"
@@ -179,13 +211,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174256,
+          -91.174248,
           30.452156
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Leola",
+        "fname": "Leola",
         "lname": "Bell",
         "plot": "20",
         "section": "1"
@@ -195,13 +227,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452748
+          -91.174151,
+          30.452772
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Lucille C.",
+        "fname": "Lucille C.",
         "lname": "Bell",
         "plot": "150",
         "section": "1"
@@ -211,13 +243,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452473
+          -91.174266,
+          30.452461
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Charles",
+        "fname": "Charles",
         "lname": "Billa",
         "plot": "66(2)",
         "section": "1"
@@ -227,13 +259,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452473
+          -91.174135,
+          30.452476
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Rosallino",
+        "fname": "Rosallino",
         "lname": "Billa",
         "plot": "66",
         "section": "1"
@@ -243,13 +275,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174141,
-          30.45256
+          -91.174123,
+          30.452575
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Fannie",
+        "fname": "Fannie",
         "lname": "Boyer",
         "plot": "89",
         "section": "1"
@@ -259,13 +291,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174158,
-          30.451964
+          -91.17415,
+          30.451942
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " J.D.",
+        "fname": "J.D.",
         "lname": "Burke",
         "plot": "1",
         "section": "1"
@@ -275,13 +307,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174247,
-          30.452715
+          -91.174213,
+          30.452759
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Josephine Marrino",
+        "fname": "Josephine Marrino",
         "lname": "Cappo",
         "plot": "139",
         "section": "1"
@@ -291,13 +323,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174224,
-          30.452735
+          -91.174207,
+          30.452769
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Mary",
+        "fname": "Mary",
         "lname": "Cappo",
         "plot": "146",
         "section": "1"
@@ -307,13 +339,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174224,
-          30.452735
+          -91.174221,
+          30.452769
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Rosario",
+        "fname": "Rosario",
         "lname": "Cappo",
         "plot": "145",
         "section": "1"
@@ -323,13 +355,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.1742,
-          30.452713
+          -91.174179,
+          30.452734
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Eddie",
+        "fname": "Eddie",
         "lname": "Cascio",
         "plot": "133",
         "section": "1"
@@ -339,13 +371,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174202,
-          30.452736
+          -91.174183,
+          30.452756
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Josephine",
+        "fname": "Josephine",
         "lname": "Cascio",
         "plot": "135",
         "section": "1"
@@ -355,13 +387,29 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174198,
-          30.452725
+          -91.174139,
+          30.452527
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Saverio  D.",
+        "fname": "Nicola",
+        "lname": "Cascio",
+        "plot": "75",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17418,
+          30.452746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Saverio  D.",
         "lname": "Cascio",
         "plot": "134",
         "section": "1"
@@ -371,13 +419,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.174194,
+          30.45215
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Jane",
+        "fname": "Jane",
         "lname": "Church",
         "plot": "22(e)",
         "section": "1"
@@ -387,13 +435,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174161,
-          30.452656
+          -91.174143,
+          30.452684
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Chet Marias",
+        "fname": "Chet Marias",
         "lname": "Collier",
         "plot": "119(a)",
         "section": "1"
@@ -403,13 +451,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174185,
-          30.452226
+          -91.174174,
+          30.452232
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " W. C.",
+        "fname": "W. C.",
         "lname": "Daigle",
         "plot": "42",
         "section": "1"
@@ -419,13 +467,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174271,
-          30.452193
+          -91.174265,
+          30.452203
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Joseph",
+        "fname": "Joseph",
         "lname": "Devall",
         "plot": "34",
         "section": "1"
@@ -435,13 +483,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17418,
-          30.452523
+          -91.174174,
+          30.452536
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Bessie Ropollo",
+        "fname": "Bessie Ropollo",
         "lname": "DiGeralamo",
         "plot": "79",
         "section": "1"
@@ -451,13 +499,29 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17418,
-          30.452523
+          -91.174172,
+          30.452535
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Jenny Ponzio",
+        "fname": "Frank",
+        "lname": "DiGeralamo",
+        "plot": "78",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174183,
+          30.452546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Jenny Ponzio",
         "lname": "DiGeralamo",
         "plot": "77",
         "section": "1"
@@ -467,13 +531,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174191,
-          30.45264
+          -91.174178,
+          30.452657
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Moise",
+        "fname": "Moise",
         "lname": "Domino",
         "plot": "116",
         "section": "1"
@@ -483,13 +547,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174187,
-          30.452595
+          -91.174207,
+          30.452602
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Ophelia",
+        "fname": "Ophelia",
         "lname": "Domino",
         "plot": "110",
         "section": "1"
@@ -499,8 +563,8 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.174178,
+          30.452162
         ],
         "type": "Point"
       },
@@ -515,13 +579,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.17418,
+          30.45215
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Dr. J. B.",
+        "fname": "Dr. J. B.",
         "lname": "Duchein",
         "plot": "22(c)",
         "section": "1"
@@ -531,8 +595,8 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.174173,
+          30.45215
         ],
         "type": "Point"
       },
@@ -547,13 +611,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.174164,
+          30.45215
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Louise",
+        "fname": "Louise",
         "lname": "Duchein",
         "plot": "22(a)",
         "section": "1"
@@ -563,13 +627,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174186,
-          30.452147
+          -91.174188,
+          30.45215
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Mrs. J. B.",
+        "fname": "Mrs. J. B.",
         "lname": "Duchein",
         "plot": "22(d)",
         "section": "1"
@@ -579,13 +643,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174272,
-          30.452547
+          -91.174254,
+          30.452552
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Samuel J.",
+        "fname": "Samuel J.",
         "lname": "Dugas",
         "plot": "86",
         "section": "1"
@@ -595,13 +659,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174268,
-          30.45248
+          -91.174262,
+          30.452507
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Antoine",
+        "fname": "Antoine",
         "lname": "Dupuy",
         "plot": "70(a)",
         "section": "1"
@@ -611,13 +675,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174281,
-          30.452466
+          -91.174283,
+          30.452494
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Leon T.",
+        "fname": "Leon T.",
         "lname": "Ellois",
         "plot": "69",
         "section": "1"
@@ -627,13 +691,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174282,
-          30.452151
+          -91.174279,
+          30.452165
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Hubert",
+        "fname": "Hubert",
         "lname": "Ellsworth",
         "plot": "18",
         "section": "1"
@@ -643,8 +707,8 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174267,
-          30.452151
+          -91.174263,
+          30.452166
         ],
         "type": "Point"
       },
@@ -659,8 +723,8 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174242,
-          30.452545
+          -91.174236,
+          30.452561
         ],
         "type": "Point"
       },
@@ -675,13 +739,29 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174165,
-          30.452196
+          -91.174213,
+          30.452518
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Anton",
+        "fname": "Joseph",
+        "lname": "Esnault",
+        "plot": "72",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174179,
+          30.452188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Anton",
         "lname": "Estein",
         "plot": "26",
         "section": "1"
@@ -691,13 +771,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174165,
-          30.452196
+          -91.174161,
+          30.452188
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Fanny Aline",
+        "fname": "Fanny Aline",
         "lname": "Estein",
         "plot": "27",
         "section": "1"
@@ -707,13 +787,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174165,
-          30.452196
+          -91.174142,
+          30.452188
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Louis",
+        "fname": "Louis",
         "lname": "Estein",
         "plot": "28",
         "section": "1"
@@ -723,13 +803,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174193,
-          30.452349
+          -91.174175,
+          30.452356
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Ceaser J.",
+        "fname": "Ceaser J.",
         "lname": "Feast",
         "plot": "55(b)",
         "section": "1"
@@ -739,13 +819,13 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174203,
-          30.452349
+          -91.174184,
+          30.452355
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Lorraine C.",
+        "fname": "Lorraine C.",
         "lname": "Feast",
         "plot": "55(a)",
         "section": "1"
@@ -755,8 +835,8 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174212,
-          30.452341
+          -91.174199,
+          30.452351
         ],
         "type": "Point"
       },
@@ -771,13 +851,941 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174185,
-          30.452226
+          -91.174145,
+          30.452306
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": "  Alice",
+        "fname": "",
+        "lname": "Florence",
+        "plot": "48",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174235,
+          30.452074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Marie Zulmore",
+        "lname": "Furrate",
+        "plot": "11",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174221,
+          30.45222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Joseph",
+        "lname": "Gagliano",
+        "plot": "31",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174258,
+          30.45277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Zena Musso",
+        "lname": "Galliano",
+        "plot": "142",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174132,
+          30.452159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Jane Catherine Rose",
+        "lname": "Gesselly",
+        "plot": "24",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174127,
+          30.452137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Marie  Vergne",
+        "lname": "Gesselly",
+        "plot": "25",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174144,
+          30.452141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "William",
+        "lname": "Gessely",
+        "plot": "23",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174283,
+          30.452518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Everlina V.",
+        "lname": "Gosserand",
+        "plot": "73",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17426,
+          30.452536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Felton Joseph",
+        "lname": "Gosserand",
+        "plot": "82(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174269,
+          30.452542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "James Harris",
+        "lname": "Gosserand",
+        "plot": "82(b)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174275,
+          30.452537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "William Peter",
+        "lname": "Gosserand",
+        "plot": "82",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174283,
+          30.452539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "William",
+        "lname": "Gosserand",
+        "plot": "81",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174289,
+          30.452438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Cora",
+        "lname": "Govern",
+        "plot": "64",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174137,
+          30.452648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Damian H. Jr.",
+        "lname": "Gross",
+        "plot": "114",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174198,
+          30.452353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Amada J.",
+        "lname": "Guerin",
+        "plot": "55",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174148,
+          30.452657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Josephine",
+        "lname": "Guerin",
+        "plot": "115",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174271,
+          30.452565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Troy Jacob",
+        "lname": "Guerin",
+        "plot": "84",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174272,
+          30.452574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Troy Jonah",
+        "lname": "Guerin",
+        "plot": "83",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174145,
+          30.452796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Rosalia",
+        "lname": "Harrison",
+        "plot": "154",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174158,
+          30.452798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "W. L.",
+        "lname": "Harrison",
+        "plot": "152(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174208,
+          30.452063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Josephine",
+        "lname": "Hebert",
+        "plot": "17(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174262,
+          30.452186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Victorin",
+        "lname": "Heude",
+        "plot": "33",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174175,
+          30.452617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Janet London",
+        "lname": "Hollis",
+        "plot": "111(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17415,
+          30.452354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Hannah",
+        "lname": "Jones",
+        "plot": "57",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174264,
+          30.452025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "J. W. C.",
+        "lname": "Jones",
+        "plot": "9",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174204,
+          30.451963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Matilda",
+        "lname": "Jones",
+        "plot": "2",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174201,
+          30.451989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Nora Burk",
+        "lname": "Jones",
+        "plot": "8",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174124,
+          30.452563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Florence S.",
+        "lname": "Knox",
+        "plot": "90",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174151,
+          30.452585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Jules Tuden",
+        "lname": "Knox",
+        "plot": "95",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174139,
+          30.452585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Alice",
+        "lname": "Knox",
+        "plot": "96",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174212,
+          30.452571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Benny",
+        "lname": "Leduff",
+        "plot": "94",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174214,
+          30.452579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "C. M.",
+        "lname": "Leduff",
+        "plot": "99",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174266,
+          30.452557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Celita D",
+        "lname": "Leduff",
+        "plot": "85",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174215,
+          30.452549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Henry M.",
+        "lname": "Leduff",
+        "plot": "88",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174212,
+          30.452561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Mary",
+        "lname": "Leduff",
+        "plot": "91",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17423,
+          30.452685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Salvatore",
+        "lname": "Marchiafava",
+        "plot": "120",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174161,
+          30.452693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Aaron",
+        "lname": "Martin",
+        "plot": "127",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174252,
+          30.452434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Damian",
+        "lname": "Martinez",
+        "plot": "61(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17425,
+          30.452409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Frank P. Jr.",
+        "lname": "Martinez",
+        "plot": "60",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174226,
+          30.452409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Frank P.",
+        "lname": "Martinez",
+        "plot": "61",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174229,
+          30.452413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Myrtle Nereaux",
+        "lname": "Martinez",
+        "plot": "60(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174288,
+          30.452429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Arabella",
+        "lname": "Matta",
+        "plot": "63",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174146,
+          30.451986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Charles",
+        "lname": "Maurin",
+        "plot": "3",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174155,
+          30.45257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Ruth",
+        "lname": "McCray",
+        "plot": "90(b)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17416,
+          30.452579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Seleanor Knox",
+        "lname": "McCray",
+        "plot": "90(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174144,
+          30.451999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Melanie",
+        "lname": "Mears",
+        "plot": "4",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174215,
+          30.452588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Josephine",
+        "lname": "Metoyer",
+        "plot": "100",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174284,
+          30.452506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Santa Mulea",
+        "lname": "Moran",
+        "plot": "70",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174266,
+          30.452714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Nancy M.",
+        "lname": "Murray",
+        "plot": "122",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174246,
+          30.452767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Peter",
+        "lname": "Musso",
+        "plot": "143",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174273,
+          30.452765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Vencenzo",
+        "lname": "Musso",
+        "plot": "140",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174267,
+          30.452767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Vencenzo",
+        "lname": "Musso",
+        "plot": "141",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174175,
+          30.452618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Eleanor",
+        "lname": "Nelson",
+        "plot": "111",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174153,
+          30.452636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Wanda A.",
+        "lname": "Nelson",
+        "plot": "109(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174183,
+          30.452669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Cornelia",
+        "lname": "Patin",
+        "plot": "117",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174158,
+          30.452795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "",
+        "lname": "Pinion Plot",
+        "plot": "152",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17415,
+          30.452788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Rosalie",
+        "lname": "Pinion",
+        "plot": "153",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174229,
+          30.452824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Sam",
+        "lname": "Pocorello",
+        "plot": "158",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174172,
+          30.452231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Alice",
         "lname": "Porter",
         "plot": "43",
         "section": "1"
@@ -787,13 +1795,221 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452473
+          -91.174163,
+          30.452708
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Johanna",
+        "fname": "Mary E.",
+        "lname": "Price",
+        "plot": "129",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174182,
+          30.452707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Viola",
+        "lname": "Price",
+        "plot": "130",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174153,
+          30.452012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Amalina M(illet)",
+        "lname": "Repp",
+        "plot": "5",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174141,
+          30.452012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "John",
+        "lname": "Repp",
+        "plot": "7",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174147,
+          30.452012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Marie Augustine",
+        "lname": "Repp",
+        "plot": "6",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174203,
+          30.452706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "",
+        "lname": "Richard Family",
+        "plot": "125",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174208,
+          30.452701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Frances",
+        "lname": "Richard",
+        "plot": "125(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174231,
+          30.452385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Geneva R.",
+        "lname": "Richard",
+        "plot": "59",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174146,
+          30.452734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Henry Joseph",
+        "lname": "Ridley",
+        "plot": "132",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17415,
+          30.452711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Peter H.",
+        "lname": "Ridley",
+        "plot": "128",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174134,
+          30.452711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Rosetta Bell",
+        "lname": "Ridley",
+        "plot": "128(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174146,
+          30.452722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Yvonne F. B.",
+        "lname": "Ridley",
+        "plot": "131",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174222,
+          30.45255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Gladys Leduff",
+        "lname": "Roberts",
+        "plot": "87",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174127,
+          30.452475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Johanna",
         "lname": "Roppollo",
         "plot": "66(1)",
         "section": "1"
@@ -803,13 +2019,93 @@
     {
       "geometry": {
         "coordinates": [
-          -91.17416,
-          30.452473
+          -91.174192,
+          30.452767
         ],
         "type": "Point"
       },
       "properties": {
-        "fname": " Eunice Valdry",
+        "fname": "Pasquala",
+        "lname": "Roussa",
+        "plot": "147",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174228,
+          30.452705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Josephine  Leta",
+        "lname": "Scardina",
+        "plot": "123",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17422,
+          30.452705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Laurence",
+        "lname": "Scardina",
+        "plot": "123(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17421,
+          30.45271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "",
+        "lname": "Sibrie Family",
+        "plot": "124",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174202,
+          30.452709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Mary",
+        "lname": "Sibrie",
+        "plot": "124(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174267,
+          30.452462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Eunice Valdry",
         "lname": "Smith",
         "plot": "66(a)",
         "section": "1"
@@ -819,8 +2115,104 @@
     {
       "geometry": {
         "coordinates": [
-          -91.174183,
-          30.452212
+          -91.174263,
+          30.452817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Joe",
+        "lname": "Stabile",
+        "plot": "157",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.17422,
+          30.452209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Anthony Sr.",
+        "lname": "Stabiler",
+        "plot": "30",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174233,
+          30.452214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Mary G.",
+        "lname": "Stabiler",
+        "plot": "32",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174281,
+          30.452201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Mary Eliza",
+        "lname": "Theall",
+        "plot": "37",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174235,
+          30.452261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Mary Ann",
+        "lname": "Theill",
+        "plot": "40",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174229,
+          30.452265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Philip",
+        "lname": "Theill",
+        "plot": "39",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174176,
+          30.452221
         ],
         "type": "Point"
       },
@@ -828,6 +2220,262 @@
         "fname": "Phillip",
         "lname": "Theille",
         "plot": "29",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174258,
+          30.452221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Phillip",
+        "lname": "Trent",
+        "plot": "38",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174271,
+          30.452528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Lawless P.",
+        "lname": "Valdry",
+        "plot": "74",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174267,
+          30.452472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Ophelia",
+        "lname": "Valdry",
+        "plot": "68",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174283,
+          30.452483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Stanley D.",
+        "lname": "Valdry",
+        "plot": "67",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174233,
+          30.452574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Edna Esnault",
+        "lname": "Valentine",
+        "plot": "93",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174213,
+          30.452245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "J.",
+        "lname": "Valerin",
+        "plot": "41",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174216,
+          30.452062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Charles",
+        "lname": "Vicknair",
+        "plot": "16",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174235,
+          30.452064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Joseph G.",
+        "lname": "Vicknair",
+        "plot": "13",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174222,
+          30.452073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Marie Angel",
+        "lname": "Vicknair",
+        "plot": "15",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174228,
+          30.452065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Marie  L.",
+        "lname": "Vicknair",
+        "plot": "14",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174235,
+          30.452084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Ovide",
+        "lname": "Vicknair",
+        "plot": "12",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174142,
+          30.452539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Unknown infant girl",
+        "lname": "Vince",
+        "plot": "76(a)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174261,
+          30.452698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Frank",
+        "lname": "Vucci",
+        "plot": "121",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174131,
+          30.452239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "",
+        "lname": "Webre Plot",
+        "plot": "45",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174132,
+          30.452257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Louise",
+        "lname": "Webre",
+        "plot": "45(b)",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174156,
+          30.452256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Sye",
+        "lname": "Webre",
+        "plot": "45(a)",
         "section": "1"
       },
       "type": "Feature"
@@ -844,6 +2492,38 @@
         "fname": "Michael Wayne",
         "lname": "White",
         "plot": "119",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174251,
+          30.452384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "Clarice",
+        "lname": "Williams",
+        "plot": "58",
+        "section": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.174165,
+          30.452354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fname": "John",
+        "lname": "Williams",
+        "plot": "56",
         "section": "1"
       },
       "type": "Feature"
