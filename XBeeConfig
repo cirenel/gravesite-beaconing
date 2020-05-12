@@ -1,0 +1,37 @@
+ALL DEVICES:
+Select UPDATE from top menu items
+upload ZIGBEE TH Reg 4060 firmware/function 
+
+COORDINATOR
+	Networking:
+	PAN ID: 1824
+	SD: 4
+	ZS: 0
+	JV: disabled
+	CE: enabled
+	
+	Addressing:
+	DH: 0
+	DL: FFFF
+	NI: coor
+	
+
+ROUTERS
+	Networking:
+	PAN ID: 1824
+	SD: 4
+	ZS: 0
+	JV: enabled
+	CE: disabled
+	
+	Addressing:
+	DH: DH COORDINATOR
+	DL: DL COORDINATOR
+	NI: [identifying letter A-Z]
+
+test connectivity:
+select the 4 bubble network icon from each radio module. 
+when you do this for the router and coordinator nodes, be sure to press the "comissioning" button on the physical grove dev board of the end node to wake it from sleep otherwise only one node will be detected.
+it should detect the others as remote devices. 
+
+if each device sees both other devices and is correctly labeled with its respective C, R or E icon, the configuration is finished. 
