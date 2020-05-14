@@ -7,6 +7,7 @@ The video detailing process and demonstrating the parts for this project can be 
 
 The report documenting and detailing the process of this project can be found here : <a href = "https://docs.google.com/document/d/17jf9HsJg-zgWmgU-BfE7ktTV50ADjPDQareK2d50IZs/edit?usp=sharing"> link.</a>
 
+The hosted web portal can be found here: <a href="https://www.stjosephcemeterybr.org/"> link.</a>
 
 <b> FILE AND DIRECTORY LISTING:</b>
 
