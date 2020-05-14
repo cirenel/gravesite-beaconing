@@ -41,3 +41,7 @@ DIRECTORY LISTING:
 	graves.json : generated from csv records. read in to map for point locations
 
 	index.html : pulls it all together to generate and draw the map.
+
+-Final Report.pdf - a copy of the submitted final report 
+
+-XBee config : the configuration information for the beacon and beacon coordinator XBees
