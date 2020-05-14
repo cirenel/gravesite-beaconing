@@ -16,7 +16,7 @@ The report documenting and detailing the process of this project can be found he
 
 	the current version is v4
 
--beacon coordinator code : code for the beacon coordinator xbee .currently turns on beacon by pot input not web input :-I
+-beacon coordinator code : code for the beacon coordinator XBee. Currently turns on a beacon from IoT core command. 
 
 	the current version is v2
 
