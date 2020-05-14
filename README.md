@@ -3,6 +3,10 @@ IoT-Sp-2020-Final
 
 README, directory listing and setup instructions
 
+Important Links:
+The video detailing process and demonstrating the parts for this project can be found here : link.
+The report paper detailing the process of this project can be found here : link.
+
 
 DIRECTORY LISTING:
 
