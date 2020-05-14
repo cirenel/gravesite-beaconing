@@ -19,15 +19,30 @@
     </style>
   </head>
   <body>
+  
+  	<script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/7.14.3/firebase-firestore.js"></script>
+
     <div id="map"></div>
     <script>
-      var map;
+    var map;
+   		  
+	firebase.initializeApp({
+		apiKey: 'AIzaSyCVqNpsX3Nu9exq_OOOu8wRxXFL1CeC1CU',
+		authDomain: 'cemmap-276514.web.app',
+		projectId: 'cemmap-276514'
+		});
+	 console.log("3");
+	var db = firebase.firestore();
+	 console.log("4");
+	 
 	 var the_edge = {
         north: 30.454012,
         south: 30.450822,
         west: -91.176170,
         east: -91.170452,
       };
+	 console.log("5");
 	  //keep the map center from wandering 
 	  
       function initMap() {
@@ -38,7 +53,7 @@
           streetViewControl:false,
           MapTypeId:'ROADMAP',
           backgroundColor:'#242f3e',
-		 restriction: {
+          restriction: {
             latLngBounds: the_edge,
             strictBounds: false,
           },
@@ -309,7 +324,7 @@
 					]
 				  }
             ]
-        });      
+        });      //ugh just put it in a file already
         
         var imageBounds = {
                 north: 30.452888,
@@ -335,7 +350,25 @@
 		});
 		
 		map.data.addListener('click', function(event) {
-			console.log("here be the place to attach beacon lighting");			
+			console.log("light nearest to:  " + event.latLng.toString());
+			var lat = parseFloat((event.latLng.toString()).substring(1, (event.latLng.toString()).indexOf(","))); //#IteachCSAPA. so many strings. 
+			var lon = parseFloat((event.latLng.toString()).substring((event.latLng.toString()).indexOf(" ")+1,(event.latLng.toString()).length-1));
+			console.log("checking: "+lat+"|"+lon)
+			//if we just set this data in incoming, it overwrites itself.
+			//i want to hang on to the data for possible future processing so i made another collection within the document 
+			db.collection("graves").doc("incoming").set({
+			    lat: lat,
+			    lon: lon
+			})
+			.then(function(docRef) {
+			    console.log("Document updated."); //, docRef.id for 
+			})
+			.catch(function(error) {
+			    console.error("Error adding document: ", error);
+			});
+			
+		//how get it out of here though?		
+			
 		});
 
 		//ONLY COMMENT THIS IN IF YOU ARE CLAIRE AND CHECKING YOUR COORDINATES 
