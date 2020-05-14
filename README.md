@@ -3,11 +3,17 @@ IoT-Sp-2020-Final
 
 README, directory listing and setup instructions
 
+
 DIRECTORY LISTING:
+
 WebPortal : source for what is served here : https://www.stjosephcemeterybr.org/ 
+
 	bigmap.png : the aptly named source for the map overlay
+
 	graves.json : generated from csv records. read in to map for point locations
+
 	index.html : pulls it all together to generate and draw the map.
+
 
 beacon code : the code for the arduino nanos running the beacons. v4 is currently deployed 
 
