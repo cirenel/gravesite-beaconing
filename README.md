@@ -5,13 +5,17 @@ FILE and DIRECTORY LISTING:
 
 -3D models: the repository of the yet untested 3D models associated with this project 
 
--beacon code : the code for the arduino nanos running the beacons. v4 is currently deployed 
+-beacon code : the code for the arduino nanos running the beacons. 
 
 	the current version is v4
+	
+	previous incarnations included with comments to their specefics
 
--beacon coordinator code : code for the beacon coordinator xbee .currently turns on beacon by pot input not web input :-I
+-beacon coordinator code : code for the beacon coordinator esp32 and xbee. currently turns on beacon through web input
 
 	the current version is v2
+	
+	previous incarnations included with comments to their specefics
 
 -diagrams : high resolution wiring diagrams from the paper 
 
@@ -29,7 +33,9 @@ FILE and DIRECTORY LISTING:
 
 -required 3rd party libraries: used in the creation of the beacon coordinator
 
-	arduino-mqtt and google-cloud-iot-arduino 
+	arduino-mqtt 
+	
+	google-cloud-iot-arduino 
 
 -WebPortal : source for what is served here : https://www.stjosephcemeterybr.org/ 
 
