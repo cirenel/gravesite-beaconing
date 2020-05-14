@@ -1,10 +1,7 @@
 # gravesite-beaconing
 IoT-Sp-2020-Final
 
-README, directory listing and setup instructions
-
-
-DIRECTORY LISTING:
+FILE and DIRECTORY LISTING:
 
 -3D models: the repository of the yet untested 3D models associated with this project 
 
