@@ -7,7 +7,7 @@ The video detailing process and demonstrating the parts for this project can be 
 
 The report documenting and detailing the process of this project can be found here : <a href = "https://docs.google.com/document/d/17jf9HsJg-zgWmgU-BfE7ktTV50ADjPDQareK2d50IZs/edit?usp=sharing"> link.</a>
 
-The hosted web portal can be found here: <a href="https://www.stjosephcemeterybr.org/"> link.</a>
+The hosted web portal can be found here : <a href="https://www.stjosephcemeterybr.org/"> link.</a>
 
 <b> FILE AND DIRECTORY LISTING:</b>
 
@@ -21,7 +21,7 @@ The hosted web portal can be found here: <a href="https://www.stjosephcemeterybr
 
 	the current version is v2
 
--diagrams : high resolution wiring diagrams from the paper 
+-diagrams : high resolution versions of diagrams from the paper 
 
 -Final Scratch Work : assorted debris, backups and experimental runs from the course of the project
 
