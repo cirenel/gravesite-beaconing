@@ -39,7 +39,13 @@ The hosted web portal can be found here : <a href="https://www.stjosephcemeteryb
 
 -required 3rd party libraries: used in the creation of the beacon coordinator
 
-	arduino-mqtt and google-cloud-iot-arduino 
+	arduino-mqtt 
+	
+	google-cloud-iot-arduino 
+	
+	Adafruit_GPS
+	
+	Adafruit_NeoPixel
 
 -WebPortal : source for what is served here : https://www.stjosephcemeterybr.org/ 
 
