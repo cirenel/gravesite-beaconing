@@ -5,6 +5,8 @@
 
 The video detailing process and demonstrating the parts for this project can be found here : <a href="https://drive.google.com/file/d/155o_H0zbMqdDoUw9AnUA0LflL79hAfPu/view?usp=sharing"> link.</a>
 
+The video giving a brief demonstration of this project can be found here : <a href="https://drive.google.com/file/d/1JNtSolfc2efxVAJRn_xqjUyHJPZRcCUL/view?usp=sharing"> link.</a>
+
 The report documenting and detailing the process of this project can be found here : <a href = "https://docs.google.com/document/d/17jf9HsJg-zgWmgU-BfE7ktTV50ADjPDQareK2d50IZs/edit?usp=sharing"> link.</a>
 
 The hosted web portal can be found here : <a href="https://www.stjosephcemeterybr.org/"> link.</a>
