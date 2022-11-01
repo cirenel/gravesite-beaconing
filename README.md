@@ -47,7 +47,7 @@ The hosted web portal can be found here : <a href="https://www.stjosephcemeteryb
 	
 	Adafruit_NeoPixel
 
--WebPortal : source for what is served here : https://www.stjosephcemeterybr.org/ 
+-WebPortal : 
 
 	bigmap.png : the aptly named source for the map overlay
 
