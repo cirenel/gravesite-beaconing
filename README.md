@@ -9,7 +9,7 @@ The video giving a brief demonstration of this project can be found here : <a hr
 
 The report documenting and detailing the process of this project can be found here : <a href = "https://docs.google.com/document/d/17jf9HsJg-zgWmgU-BfE7ktTV50ADjPDQareK2d50IZs/edit?usp=sharing"> link.</a>
 
-The hosted web portal can be found here : <a href="https://www.stjosephcemeterybr.org/"> link.</a>
+<strike>The hosted web portal can be found here : <a href=""> link.</a></strike><sub>nonfunctional at the moment</sub>
 
 <b> FILE AND DIRECTORY LISTING:</b>
 
